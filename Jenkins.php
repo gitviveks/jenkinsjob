@@ -1,1 +1,3 @@
-Jenkins will do job automation.
+<?php
+Jenkins will do job automation
+?>
